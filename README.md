@@ -410,5 +410,5 @@ Bitcoin and Cryptocurrency Technologies Online Course](https://www.coursera.org/
 * [IndiaBits](https://t.me/indiabits)
 
 
-If you think something's missing, feel free to let us know about it [here](https://github.com/blockchainedindia/resources/issues/new).
+If you think something's missing, please feel free to let us know about it [here](https://github.com/blockchainedindia/resources/issues/new).
 And we would make sure to add you as collborator. :)
